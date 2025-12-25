@@ -15,6 +15,7 @@ def after_login_menu():
     print("3. Mark notification as read")
     print("4. Clear all notifications")
     print("5. Logout")
+    print("***********************************")
 
 def main():
 
